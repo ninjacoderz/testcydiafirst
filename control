@@ -1,0 +1,6 @@
+Package: com.supermamon.oldpackage
+Name: Old Package
+Section: Tweaks
+Depends: firmware (<7.0)
+Description: This is a sample old package. Firmware should be lower than 7.0
+Depiction: https://username.github.io/repo/depictions/?p=com.supermamon.oldpackage
