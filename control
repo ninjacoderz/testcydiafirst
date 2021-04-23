@@ -1,9 +1,0 @@
-Package: com.iosre.iosreproject
-Name: iOSREProject
-Version: 0.0.1
-Architecture: iphoneos-arm
-Description: An awesome MobileSubstrate tweak!
-Maintainer: snakeninny
-Author: snakeninny
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)

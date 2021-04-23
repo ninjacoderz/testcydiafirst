@@ -1,8 +1,8 @@
-Origin: testcydiafirst
-Label: Test Cydia First
+Origin: Reposi3
+Label: Reposi3
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: My First Test Cydia 
+Description: Reposi3 - a cydia repo template
